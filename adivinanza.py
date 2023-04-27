@@ -1,3 +1,6 @@
+#Version 1.0
+#Author: Armando Zuñiga.
+
 import random
 
 randon_num = random.randint(1,50)
